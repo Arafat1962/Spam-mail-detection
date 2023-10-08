@@ -4,7 +4,7 @@ This is a spam mail detection system implemented using Python and scikit-learn. 
 
 ## Table of Contents
 
-- [Project Overview]
+- [Project Overview](#project-overview)
 - [Dataset]
 - [Usage]
 - [Machine Learning Models]
