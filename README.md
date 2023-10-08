@@ -18,7 +18,7 @@ This is a spam mail detection system implemented using Python and scikit-learn. 
 
 ## Dataset
 
-The dataset used in this project contains a collection of emails with labels indicating whether each email is spam or not. The dataset has been preprocessed to remove duplicates and null values.
+The dataset used in this project contains a collection of emails with labels indicating whether each email is spam or not. The dataset has been preprocessed to remove duplicates and null values. The dataset is collected from kaggle and it is also uploaded in the [repository](mail_data.csv).
 
 ## Usage
 
