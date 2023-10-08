@@ -68,7 +68,7 @@ For more details and to explore the code, please refer to the Jupyter notebook l
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 
